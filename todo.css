@@ -1,0 +1,12 @@
+.del_button{
+    background-color: brown;
+    color: antiquewhite;
+    padding: 8px;
+    margin-left: 120px;
+
+}
+.start{
+    background-color: green;
+    color: aliceblue;
+    padding: 8px;
+}
